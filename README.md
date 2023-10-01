@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hiicaptain
 - 👀 I’m interested in rehabilitation robot
-- 🌱 I’m currently learning IMU gesture estimation
 - 💞️ I’m looking to collaborate on projects about medical robots
 - 📫 How to reach me？ yu1997hao@gmail.com
 
